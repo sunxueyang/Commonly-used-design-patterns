@@ -1,0 +1,9 @@
+E:\Sunxy\昂立\设计模式\Csun\Csun\bin\Debug\Csun.exe.config
+E:\Sunxy\昂立\设计模式\Csun\Csun\bin\Debug\Csun.exe
+E:\Sunxy\昂立\设计模式\Csun\Csun\bin\Debug\Csun.pdb
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.csprojResolveAssemblyReference.cache
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.Form1.resources
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.Properties.Resources.resources
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.csproj.GenerateResource.Cache
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.exe
+E:\Sunxy\昂立\设计模式\Csun\Csun\obj\Debug\Csun.pdb
